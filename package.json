@@ -11,6 +11,8 @@
     "start": "next start",
     "lint": "next lint",
     "clean": "rm -rf .next",
+    "pages:build": "npx @cloudflare/next-on-pages@latest",
+    "pages:deploy": "wrangler pages deploy"
     "docker:build": "docker build -f docker/Dockerfile -t navsphere:latest .",
     "docker:dev": "docker-compose -f docker/docker-compose.yml up -d",
     "docker:prod": "docker-compose -f docker/docker-compose.prod.yml up -d",
