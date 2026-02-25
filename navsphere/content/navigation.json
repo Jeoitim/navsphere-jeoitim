@@ -164,6 +164,15 @@
       "subCategories": []
     },
     {
+      "id": "1772007293882",
+      "title": "外语资源",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1772006944920",
       "title": "BT磁力网站",
       "icon": "Link",
@@ -611,15 +620,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1772007293882",
-      "title": "外语资源",
-      "icon": "Globe",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
