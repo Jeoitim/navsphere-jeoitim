@@ -611,6 +611,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1772007293882",
+      "title": "外语资源",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
