@@ -232,6 +232,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1772007713148",
+              "enabled": true,
+              "title": "Favicon图标制作",
+              "href": "https://favicon.net.cn/",
+              "description": "在线Favicon图标生成器是一款方便的在线网站图标制作工具，能够快速生成ICO、JPG和PNG格式的Favicon图标。",
+              "icon": "/assets/favicon_1772007688518.png"
             }
           ],
           "enabled": true
