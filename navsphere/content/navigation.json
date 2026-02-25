@@ -593,6 +593,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1772007137641",
+      "title": "漫画资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
