@@ -173,6 +173,15 @@
       "subCategories": []
     },
     {
+      "id": "1772007137641",
+      "title": "漫画资源",
+      "icon": "Image",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -593,15 +602,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1772007137641",
-      "title": "漫画资源",
-      "icon": "Image",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
