@@ -602,6 +602,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1772007250638",
+      "title": "语言学",
+      "icon": "MessageSquare",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
