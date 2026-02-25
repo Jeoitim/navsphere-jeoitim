@@ -668,6 +668,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1772007089046",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
